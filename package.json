@@ -7,7 +7,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:rvlasveld/node-gyp-heroku.git"
-  }
+  },
   "scripts": {
     "install": "node-gyp configure; node-gyp build"
   },
