@@ -1,6 +1,6 @@
 # Node-Gyp-Example
 
-Example how to use node-gyp component compiling, for instance on Heroku.
+Example how to use [node-gyp](https://github.com/TooTallNate/node-gyp) addon compiling, for instance on Heroku.
 
 ## How does it work?
 In `package.json` a script for the `install` event is defined.
